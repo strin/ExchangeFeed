@@ -1,0 +1,8 @@
+.DS_STORE
+CMakeFiles
+CMakeCache.txt
+Makefile
+*.cmake
+data
+result
+feed
